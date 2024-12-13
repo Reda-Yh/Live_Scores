@@ -1,10 +1,10 @@
 import './App.css';
-import LiveScoreWidget from './live';
+import MapContainer from './Agadir';
 
 function App() {
   return (
     <div className="App">
-      <LiveScoreWidget />
+      <MapContainer />
     </div>
   );
 }

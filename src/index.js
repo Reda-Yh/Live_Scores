@@ -1,10 +1,11 @@
 import React from 'react';
-import ReactDOM from 'react-dom/client';
+import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(
-    <App />
+// Utilisation de ReactDOM.render pour React 16
+ReactDOM.render(
+    <App />,
+    document.getElementById('root')
 );
