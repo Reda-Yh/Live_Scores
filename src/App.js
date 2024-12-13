@@ -1,12 +1,10 @@
 import './App.css';
-import MapContainer from './Agadir';
-
+import LiveScoreWidget from './live';
 function App() {
   return (
     <div className="App">
-      <MapContainer />
+      <LiveScoreWidget />
     </div>
   );
 }
-
 export default App;
