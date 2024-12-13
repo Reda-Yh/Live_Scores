@@ -17,7 +17,7 @@ This React application provides real-time football live scores using the ScoreBa
 - Google Maps API (configured but not currently used)
 
 ## Installation
-1. Clone the repository: git clone https://github.com/Reda-Yh/live_scores.git
+1. Clone the repository: git clone https://github.com/Reda-Yh/Live_Scores.git
 
 2. Install dependencies: npm install
 
